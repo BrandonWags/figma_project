@@ -1,0 +1,114 @@
+.about-page,
+.about-page * {
+  box-sizing: border-box;
+}
+.about-page {
+  background: #0080ff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 35px;
+  top: 46px;
+}
+.menu-items {
+  display: flex;
+  flex-direction: row;
+  gap: 61px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 861px;
+  top: 46px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.body {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1344px;
+  position: absolute;
+  left: 49px;
+  top: 296px;
+}
+.bmgt-407-information-systems-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 55px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors-this-class-happens-on-thursday-nights-in-the-vmh-building {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  width: 1155px;
+  height: 89px;
+}
+.professor-paul-t-shapiro {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 42px;
+}
+.teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 42px;
+}
+.semester-details-spring-2025 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 42px;
+}

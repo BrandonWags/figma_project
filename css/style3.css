@@ -1,0 +1,104 @@
+.contact-page,
+.contact-page * {
+  box-sizing: border-box;
+}
+.contact-page {
+  background: #0080ff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 35px;
+  top: 46px;
+}
+.menu-items {
+  display: flex;
+  flex-direction: row;
+  gap: 61px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 861px;
+  top: 46px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.body {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1344px;
+  position: absolute;
+  left: 49px;
+  top: 296px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 55px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  width: 1155px;
+  height: 38px;
+}
+.professor-contact-paul-t-shapiro-pshapiro-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 77px;
+}
+.ta-contact-bharath-sreekumar-bsreekum-umd-edu-caifu-lin-clin-0817-terpmail-umd-edu-sumanth-devara-sdevara-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 155px;
+}
